@@ -33,6 +33,7 @@ requirements:
   run:
     - ros-conda-mutex * melodic
     - ros-conda-base
+    - python
     - console_bridge
     - boost-cpp 1.70.*
 
