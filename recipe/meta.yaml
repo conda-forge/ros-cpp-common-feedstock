@@ -28,14 +28,14 @@ requirements:
     - python
     - catkin_pkg
     - console_bridge
-    - boost-cpp 1.70.*
+    - boost-cpp
     - ros-catkin
   run:
     - ros-conda-mutex * melodic
     - ros-conda-base
     - python
     - console_bridge
-    - boost-cpp 1.70.*
+    - boost-cpp
 
 test:
   requires:
